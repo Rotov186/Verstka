@@ -28,6 +28,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+
+}
+
 body {
 	line-height: 1;
 }
@@ -83,15 +90,15 @@ table {
 
 .header1 {
     font-family: georgia;
-    font-size: 85pt;
-    padding: 430px 0px 0px 20px;
+    font-size: 50px;
+    padding: 200px 0px 0px 20px;
     color: white;
 }
 
 .paragraph1 {
     font-family: georgia;
-    font-size: 25pt;
-    padding: 30px 0px 0px 20px;
+    font-size: 15px;
+    padding: 35px 0px 0px 20px;
     color: white;
 }
 
@@ -131,40 +138,156 @@ html {
     background-color: #ffffff;
     padding: 50px 20px 0px 20px;
     border-radius: 30px;
-    width: 1820px;
-    height: 1000px;
+    width: 890px;
+    height: 675px;
     margin: 60px auto;
 }
+
 
 .circle1 {
     position: relative;
     background-color: #e2e2e2;
-    width: 300px ;
-    height: 300px ;
-    border-radius: 150px ;
-    margin: 20px;
+    width: 215px ;
+    height: 215px ;
+    border-radius: 107.5px ;
+
 }
 
 .circle2 {
     position: relative;
     background-color: #e2e2e2;
-    width: 300px ;
-    height: 300px ;
-    border-radius: 150px ;
-    left: 360px;
-    top: 0px;
+    width: 215px ;
+    height: 215px ;
+    border-radius: 107.5px ;
 }
 
 .circle3 {
     background-color: #e2e2e2;
-    width: 300px ;
-    height: 300px ;
-    border-radius: 150px ;
+    width: 215px ;
+    height: 215px ;
+    border-radius: 107.5px ;
+    top: -159px;
 }
 
 .circle4 {
     background-color: #e2e2e2;
-    width: 300px ;
-    height: 300px ;
-    border-radius: 150px ;
+    width: 215px ;
+    height: 215px ;
+    border-radius: 107.5px ;
+    top: -159px;
+    
+}
+
+.circle5 {
+    position: relative;
+    background-color: #b86365;
+    width: 179px ;
+    height: 179px ;
+    border-radius: 89.5px;
+    top: -197px;
+    left: 18px;
+}
+
+.circle6 {
+    position: relative;
+    background-color: #b86365;
+    width: 180px ;
+    height: 180px ;
+    border-radius: 90px ;
+    top: -197px;
+    left: 18px;
+}
+
+.circle7 {
+    position: relative;
+    background-color: #b86365;
+    width: 180px ;
+    height: 180px ;
+    border-radius: 90px ;
+    top: -197px;
+    left: 18px;
+}
+
+.circle8 {
+    position: relative;
+    background-color: #b86365;
+    width: 180px ;
+    height: 180px ;
+    border-radius: 90px ;
+    top: -197px;
+    left: 18px;
+
+}
+
+.blackstar1 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 490px;
+    margin-top: -630px ;
+}
+.blackstar2 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 725px;
+    margin-top: -32px ;
+}
+.blackstar3 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 490px;
+    margin-top: 76px ;
+}
+.blackstar4 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 725px;
+    margin-top: -32px ;
+}
+.blackstar5 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 490px;
+    margin-top: 76px ;
+}
+.blackstar6 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 725px;
+    margin-top:-32px ;
+}
+.blackstar7 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 490px;
+    margin-top: 76px;
+}
+.blackstar8 {
+    width: 31px;
+    height: 32px;
+    background-color: black;
+    margin-left: 725px;
+    margin-top: -32px;
+}
+
+.circle15 {
+    height: 235px;
+    width: 235px;
+}
+
+.circle26 {
+    height: 235px;
+}
+
+.pa1 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
 }
