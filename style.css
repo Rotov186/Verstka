@@ -222,57 +222,49 @@ html {
 .blackstar1 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 490px;
-    margin-top: -630px ;
+    margin-left: 470px;
+    margin-top: -670px ;
 }
 .blackstar2 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 725px;
+    margin-left: 690px;
     margin-top: -32px ;
 }
 .blackstar3 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 490px;
+    margin-left: 470px;
     margin-top: 76px ;
 }
 .blackstar4 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 725px;
+    margin-left: 690px;
     margin-top: -32px ;
 }
 .blackstar5 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 490px;
+    margin-left: 470px;
     margin-top: 76px ;
 }
 .blackstar6 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 725px;
+    margin-left: 690px;
     margin-top:-32px ;
 }
 .blackstar7 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 490px;
+    margin-left: 470px;
     margin-top: 76px;
 }
 .blackstar8 {
     width: 31px;
     height: 32px;
-    background-color: black;
-    margin-left: 725px;
+    margin-left: 690px;
     margin-top: -32px;
 }
 
@@ -285,9 +277,167 @@ html {
     height: 235px;
 }
 
+.ra1{
+    
+}
+
 .pa1 {
     font-family: georgia;
     font-size: 14px;
     padding: -200px 0px 0px 0px;
     color: #666666;
+    margin-left: 532px;
+    margin-top: -307px;
+}
+
+.ha1 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 490px;
+    margin-top: 30px;
+}
+
+.pa2 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 532px;
+    margin-top: 30px;
+}
+
+.ha2 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 490px;
+    margin-top: 30px;
+}
+
+.pa3 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 532px;
+    margin-top: 30px;
+}
+
+.ha3 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 490px;
+    margin-top: 30px;
+}
+
+.pa4 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 532px;
+    margin-top: 30px;
+}
+
+.ha4 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 490px;
+    margin-top: 30px;
+}
+
+.pa5 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 756px;
+    margin-top: -412px;
+}
+
+.ha5 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 710px;
+    margin-top: 30px;
+}
+
+.pa6 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 756px;
+    margin-top: 30px;
+}
+
+.ha6 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 710px;
+    margin-top: 30px;
+}
+
+.pa7 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 756px;
+    margin-top: 30px;
+}
+
+.ha7 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 710px;
+    margin-top: 30px;
+}
+
+.pa8 {
+    font-family: georgia;
+    font-size: 14px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 756px;
+    margin-top: 30px;
+}
+
+.ha8 {
+    font-family: georgia;
+    font-size: 12px;
+    padding: -200px 0px 0px 0px;
+    color: #666666;
+    margin-left: 710px;
+    margin-top: 30px;
+}
+
+.tpgrdnt {
+    margin-top: 30px;
+}
+
+.leftarrow {
+    margin-top: -24px;
+    margin-left: -20px;
+}
+
+.rightarrow {
+    margin-left: 806px;
+}
+
+.Subscribe {
+    margin-top: -202px;
 }
